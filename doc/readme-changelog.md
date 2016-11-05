@@ -9,6 +9,25 @@
   </tr>
     
 <tr>
+        <td colspan=4><strong>Version: 2.1.0 - released 2016-11-05</strong></td>
+      </tr>
+        
+<tr>
+            <td style="width:20px;padding:0;margin:0;text-align:center;"><img src="https://jira.nhvr.net:80/secure/viewavatar?size=xsmall&amp;avatarId=10418&amp;avatarType=issuetype"/></td>
+            <td style="width:80px;text-align:left;">Non-functional</td>
+            <td style="width:80px;text-align:left;">MDLPCNSG-39</td>
+            <td><p>Remove bin directory</p><p></p></td>
+          </tr>
+        
+<tr>
+            <td style="width:20px;padding:0;margin:0;text-align:center;"><img src="https://jira.nhvr.net:80/secure/viewavatar?size=xsmall&amp;avatarId=10412&amp;avatarType=issuetype"/></td>
+            <td style="width:80px;text-align:left;">Minor</td>
+            <td style="width:80px;text-align:left;">MDLPCNSG-38</td>
+            <td><p>Add support for cc/bcc emails #19</p><p></p></td>
+          </tr>
+        
+    
+<tr>
         <td colspan=4><strong>Version: 2.0.6 - released 2016-09-03</strong></td>
       </tr>
         
