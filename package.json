@@ -95,7 +95,7 @@
     "bunyan-format": "^0.2.1",
     "glob": "^6.0.1",
     "gulp": "^3.9.0",
-    "gulp-eslint": "^1.1.1",
+    "gulp-eslint": "^3.0.1",
     "gulp-istanbul": "^0.10.2",
     "gulp-json-editor": "^2.2.1",
     "gulp-load-params": "^0.1.3",
