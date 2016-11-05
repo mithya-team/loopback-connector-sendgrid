@@ -40,17 +40,17 @@
       "stats": {
         "lines": {
           "pctSkipped": 0,
-          "pct": 59,
+          "pct": 60,
           "colour": "yellow"
         },
         "branches": {
           "pctSkipped": 0,
-          "pct": 38,
+          "pct": 39,
           "colour": "yellow"
         },
         "statements": {
           "pctSkipped": 0,
-          "pct": 59,
+          "pct": 60,
           "colour": "yellow"
         },
         "functions": {
@@ -62,7 +62,7 @@
           "pct": 0
         },
         "overall": {
-          "pct": 51,
+          "pct": 52,
           "colour": "yellow"
         }
       }
@@ -71,6 +71,9 @@
   "main": "./lib",
   "scripts": {
     "test": "./node_modules/.bin/gulp"
+  },
+  "engines": {
+    "node": ">=4.0.0"
   },
   "directories": {
     "lib": "lib",
