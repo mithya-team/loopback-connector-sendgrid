@@ -10,8 +10,8 @@
   },
   "config": {
     "projectCode": "MDLPCNSG",
-    "build": "n/a",
-    "buildTimestamp": "2016-11-14T10:28:43.802Z",
+    "build": "77",
+    "buildTimestamp": "2016-11-14T10:30:55.744Z",
     "adminEmail": "mail@cellarise.com",
     "coverage": {
       "codeClimate": true,
