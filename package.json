@@ -85,7 +85,7 @@
     "build": "Build"
   },
   "dependencies": {
-    "q": "^1.4.1",
+    "q": "^1.5.0",
     "ramda": "^0.23.0",
     "sendgrid": "^4.0.1"
   },
