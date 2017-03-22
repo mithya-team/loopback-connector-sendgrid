@@ -9,6 +9,18 @@
   </tr>
     
 <tr>
+        <td colspan=4><strong>Version: 2.1.4 - released 2017-03-23</strong></td>
+      </tr>
+        
+<tr>
+            <td style="width:20px;padding:0;margin:0;text-align:center;"><img src="https://jira.nhvr.net:80/secure/viewavatar?size=xsmall&amp;avatarId=10418&amp;avatarType=issuetype"/></td>
+            <td style="width:80px;text-align:left;">Non-functional</td>
+            <td style="width:80px;text-align:left;">MDLPCNSG-43</td>
+            <td><p>Package: Update package dependencies</p><p></p></td>
+          </tr>
+        
+
+<tr>
         <td colspan=4><strong>Version: 2.1.3 - released 2016-12-31</strong></td>
       </tr>
         
@@ -19,7 +31,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.1.2 - released 2016-11-14</strong></td>
       </tr>
@@ -31,7 +43,7 @@
             <td><p>Fix personalizations #22</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.1.1 - released 2016-11-05</strong></td>
       </tr>
@@ -43,7 +55,7 @@
             <td><p>Package: Fix version of development dependency - eslint</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.1.0 - released 2016-11-05</strong></td>
       </tr>
@@ -62,7 +74,7 @@
             <td><p>Add support for cc/bcc emails #19</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.0.6 - released 2016-09-03</strong></td>
       </tr>
@@ -74,7 +86,7 @@
             <td><p>Fix faulty &#39;to&#39; parsing #15</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.0.5 - released 2016-08-29</strong></td>
       </tr>
@@ -86,7 +98,7 @@
             <td><p>Fix sendGridLib.SendGrid is not a function #14</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.0.4 - released 2016-08-25</strong></td>
       </tr>
@@ -119,7 +131,7 @@
             <td><p>Fix Invalid type of To email (found) #13</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.0.3 - released 2016-07-09</strong></td>
       </tr>
@@ -131,7 +143,7 @@
             <td><p>Package: Add test steps for 2.0.2 and fix readme</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.0.1 - released 2016-07-08</strong></td>
       </tr>
@@ -143,7 +155,7 @@
             <td><p>Package: Fix library to use sendgrid web APIv3 configuration</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 2.0.0 - released 2016-07-08</strong></td>
       </tr>
@@ -162,7 +174,7 @@
             <td><p>Package: Upgrade Sendgrid dependency from ^2.0.0 to ^3.0.4 (upgraded in version 1.2.4)</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.2.4 - released 2016-07-07</strong></td>
       </tr>
@@ -195,7 +207,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.2.3 - released 2016-02-16</strong></td>
       </tr>
@@ -207,7 +219,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.2.2 - released 2015-11-26</strong></td>
       </tr>
@@ -219,7 +231,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.2.0 - released 2015-10-05</strong></td>
       </tr>
@@ -231,7 +243,7 @@
             <td><p>Email connector: Add support for api_key</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.1.4 - released 2015-08-25</strong></td>
       </tr>
@@ -243,7 +255,7 @@
             <td><p>Package: Update development dependencies and configure for travis-ci</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.1.3 - released 2015-07-21</strong></td>
       </tr>
@@ -255,7 +267,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.1.2 - released 2015-07-14</strong></td>
       </tr>
@@ -267,7 +279,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.1.1 - released 2015-07-01</strong></td>
       </tr>
@@ -279,7 +291,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.1.0 - released 2015-06-30</strong></td>
       </tr>
@@ -298,7 +310,7 @@
             <td><p>Email connector: Send message attachments</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.0.3 - released 2015-04-20</strong></td>
       </tr>
@@ -310,7 +322,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.0.2 - released 2015-02-23</strong></td>
       </tr>
@@ -329,7 +341,7 @@
             <td><p>Package: Update eslint configuration, test.js runner and dev dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.0.1 - released 2015-02-03</strong></td>
       </tr>
@@ -341,7 +353,7 @@
             <td><p>Email connector: Email subject line not set</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 1.0.0 - released 2015-02-03</strong></td>
       </tr>
@@ -360,7 +372,7 @@
             <td><p>Email connector: Add sendgrid options passthrough from datasource</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 0.1.1 - released 2015-02-03</strong></td>
       </tr>
@@ -372,7 +384,7 @@
             <td><p>Package: Update package dependencies</p><p></p></td>
           </tr>
         
-    
+
 <tr>
         <td colspan=4><strong>Version: 0.1.0 - released 2015-02-02</strong></td>
       </tr>
@@ -384,5 +396,5 @@
             <td><p>Email connector: Add a loopback connector for sending emails from SendGrid</p><p></p></td>
           </tr>
         
-    
+
 </table>
