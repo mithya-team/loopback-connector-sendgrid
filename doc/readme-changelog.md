@@ -9,6 +9,18 @@
   </tr>
     
 <tr>
+        <td colspan=4><strong>Version: 2.2.1 - released 2017-05-28</strong></td>
+      </tr>
+        
+<tr>
+            <td style="width:20px;padding:0;margin:0;text-align:center;"><img src="https://jira.cellarise.com:80/secure/viewavatar?size=xsmall&amp;avatarId=10418&amp;avatarType=issuetype"/></td>
+            <td style="width:80px;text-align:left;">Non-functional</td>
+            <td style="width:80px;text-align:left;">MDLPCNSG-46</td>
+            <td><p>Package: Update package dependencies</p><p></p></td>
+          </tr>
+        
+
+<tr>
         <td colspan=4><strong>Version: 2.2.0 - released 2017-04-23</strong></td>
       </tr>
         
