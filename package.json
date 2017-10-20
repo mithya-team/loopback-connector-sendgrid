@@ -2,7 +2,7 @@
   "author": "John Barry",
   "name": "loopback-connector-sendgrid",
   "description": "Loopback connector module which allow to send emails via SendGrid",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "license": "MIT License (MIT)",
   "repository": {
     "type": "git",
@@ -10,8 +10,8 @@
   },
   "config": {
     "projectCode": "MDLPCNSG",
-    "build": "91",
-    "buildTimestamp": "2017-10-10T14:07:24.631Z",
+    "build": "93",
+    "buildTimestamp": "2017-10-20T14:04:07.606Z",
     "adminEmail": "mail@cellarise.com",
     "coverage": {
       "codeClimate": true,
