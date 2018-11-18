@@ -86,7 +86,7 @@
   },
   "dependencies": {
     "q": "^1.5.1",
-    "ramda": "^0.25.0",
+    "ramda": "^0.26.0",
     "sendgrid": "^5.0.0"
   },
   "devDependencies": {
