@@ -68,7 +68,7 @@
       }
     }
   },
-  "main": "./lib",
+  "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/gulp"
   },
